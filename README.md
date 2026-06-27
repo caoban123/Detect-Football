@@ -8,7 +8,9 @@ Hệ thống phân tích video bóng đá tự động dựa trên Trí tuệ nh
 
 Dưới đây là video demo kết quả xử lý của pipeline (bao gồm khoanh vùng màu elip theo đội, vẽ tam giác chỉ thị bóng kèm đuôi chuyển động chuyển màu, và bảng HUD hiển thị tỷ lệ kiểm soát bóng Possession trực quan ở mép trên khung hình):
 
-https://github.com/caoban123/Detect-Football/raw/main/outputs/output_tracked.mp4
+![Result Demo](outputs/demo.gif)
+
+* **[👉 Bấm vào đây để xem/tải về Video Full MP4 chất lượng cao](https://raw.githubusercontent.com/caoban123/Detect-Football/main/outputs/output_tracked.mp4)**
 
 ---
 
