@@ -1,4 +1,4 @@
-# Detech-Football: Hệ thống Phân tích Trận đấu Bóng đá Tự động
+# Detect-Football: Hệ thống Phân tích Trận đấu Bóng đá Tự động
 
 Hệ thống phân tích video bóng đá tự động dựa trên Trí tuệ nhân tạo và Thị giác máy tính. Dự án tích hợp các công nghệ nhận diện vật thể tiên tiến, thuật toán theo dõi quỹ đạo, phân cụm học máy không giám sát để phân tích đội hình, vẽ đường di chuyển của bóng và tính toán tỷ lệ kiểm soát bóng (Possession) theo thời gian thực.
 
